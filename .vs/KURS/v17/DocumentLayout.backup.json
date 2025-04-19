@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|c:\\users\\songule3423\\desktop\\yaz\u0131l\u0131m pratik notlar\u0131\\20250309\\kurs\\kurs.data\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|solutionrelative:kurs.data\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\kurs.data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|solutionrelative:kurs.data\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\kurs.data\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|solutionrelative:kurs.data\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\kurs.data\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{095530B3-12D9-441F-9D74-36306F7578D9}|Kurs.Data\\Kurs.Data.csproj|solutionrelative:kurs.data\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355489F4-C98E-45B9-8C80-45FA0BD471B0}|Kurs.Win32\\Kurs.Win32.csproj|C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\kurs.win32\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{355489F4-C98E-45B9-8C80-45FA0BD471B0}|Kurs.Win32\\Kurs.Win32.csproj|solutionrelative:kurs.win32\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355489F4-C98E-45B9-8C80-45FA0BD471B0}|Kurs.Win32\\Kurs.Win32.csproj|C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\kurs.win32\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355489F4-C98E-45B9-8C80-45FA0BD471B0}|Kurs.Win32\\Kurs.Win32.csproj|solutionrelative:kurs.win32\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Inventory.cs",
+              "RelativeDocumentMoniker": "Kurs.Data\\Inventory.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Inventory.cs",
+              "RelativeToolTip": "Kurs.Data\\Inventory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:38:15.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Vendor.cs",
+              "RelativeDocumentMoniker": "Kurs.Data\\Vendor.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Vendor.cs",
+              "RelativeToolTip": "Kurs.Data\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:35:44.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Transaction.cs",
+              "RelativeDocumentMoniker": "Kurs.Data\\Transaction.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Transaction.cs",
+              "RelativeToolTip": "Kurs.Data\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:32:56.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Stock.cs",
+              "RelativeDocumentMoniker": "Kurs.Data\\Stock.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Data\\Stock.cs",
+              "RelativeToolTip": "Kurs.Data\\Stock.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:28:42.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Win32\\Main.cs",
+              "RelativeDocumentMoniker": "Kurs.Win32\\Main.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Win32\\Main.cs",
+              "RelativeToolTip": "Kurs.Win32\\Main.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:58:22.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Yaz\u0131l\u0131m Pratik Notlar\u0131\\20250309\\KURS\\Kurs.Win32\\Main.cs",
+              "RelativeDocumentMoniker": "Kurs.Win32\\Main.cs",
+              "ToolTip": "C:\\EGITMEN YEDEK\\COBAN\\20250308\\KURS\\Kurs.Win32\\Main.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\EGITMEN YEDEK\\COBAN\\20250308\\KURS\\Kurs.Win32\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:55:52.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

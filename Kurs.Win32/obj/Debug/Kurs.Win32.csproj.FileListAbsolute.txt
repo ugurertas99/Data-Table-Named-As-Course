@@ -1,0 +1,10 @@
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\bin\Debug\Kurs.Win32.exe.config
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\bin\Debug\Kurs.Win32.exe
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\bin\Debug\Kurs.Win32.pdb
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\obj\Debug\Kurs.Win32.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\obj\Debug\Kurs.Win32.Main.resources
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\obj\Debug\Kurs.Win32.Properties.Resources.resources
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\obj\Debug\Kurs.Win32.csproj.GenerateResource.cache
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\obj\Debug\Kurs.Win32.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\obj\Debug\Kurs.Win32.exe
+C:\EGITMEN YEDEK\COBAN\20250308\KURS\Kurs.Win32\obj\Debug\Kurs.Win32.pdb
